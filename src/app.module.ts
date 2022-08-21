@@ -9,8 +9,8 @@ import { UsersModule } from './users/users.module';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: '1011fajeruw',
-      database: 'sql-kurs',
+      password: 'password',
+      database: 'mysql',
       autoLoadModels: true,
       synchronize: true,
       define:{
